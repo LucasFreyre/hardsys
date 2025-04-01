@@ -34,6 +34,12 @@ td{
     width: 50%;
     border-radius: 20px;
 }
+.produtos{
+    color: black;
+}
+.contato{
+    color: black;
+}
 .SejaBemVindo{
     font-family: 'Righteous';
     color: white;
@@ -42,4 +48,10 @@ td{
 .nossasInovacoes{
     font-family: 'Righteous';
     color: white;
+}
+.pc{
+    width: 100%;
+}
+.quemSomosA{
+    color: black;
 }
