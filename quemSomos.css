@@ -37,7 +37,7 @@ td{
 .QuemSomos{
     background-color: #FFDD93;
 }
-.contato{
+a{
     color: black;
 }
 .quemSomosP, .texto{
@@ -53,4 +53,9 @@ td{
 }
 .pcGamer{
     width: 100%;
+}
+.search{
+    width: 50px;
+    float: right;
+    transform: translateX(-100%) translateY(10px);
 }
