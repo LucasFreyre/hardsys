@@ -37,7 +37,7 @@ td{
 .produtos{
     background-color: #FFDD93;
 }
-.contato{
+a{
     color: black;
 }
 .produtosP{
@@ -69,4 +69,9 @@ td{
     color: #004AAD;
     cursor: pointer;
     background-color: white;
+}
+.search{
+    width: 50px;
+    float: right;
+    transform: translateX(-100%) translateY(10px);
 }
