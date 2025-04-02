@@ -40,7 +40,7 @@ td{
 .pc{
     width: 100%;
 }
-.quemSomosA{
+a{
     color: black;
 }
 .pcGamer{
@@ -61,4 +61,9 @@ td{
     color: #515151;
     font-family: 'Righteous';
     width: 100px;
+}
+.search{
+    width: 50px;
+    float: right;
+    transform: translateX(-100%) translateY(10px);
 }
