@@ -37,20 +37,32 @@ td{
 .produtos{
     background-color: #FFDD93;
 }
-.contato{
+a{
     color: black;
 }
-.quemSomosP, .texto{
+.placaDeVideo{
+    float: right;
+    width: 300px;
+}
+.P12{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.inputBtn{
+    width: 150px;
+    border-radius: 5px;
+    height: 30px;
+}
+.content{
+    font-family: 'Righteous';
     text-align: center;
     color: white;
-    font-family: 'Righteous';
 }
-.quemSomosP{
-    font-size: 2em;
+.Lorem{
+    margin-bottom: 20px;
 }
-.texto{
-    font-family: 'Roboto';
-}
-.pcGamer{
-    width: 100%;
+.search{
+    width: 50px;
+    float: right;
+    transform: translateX(-100%) translateY(10px);
 }
